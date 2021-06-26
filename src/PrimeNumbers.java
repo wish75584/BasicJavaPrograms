@@ -1,7 +1,8 @@
 public class PrimeNumbers {
 
     public static void main(String args[]){
-        int val= 12;
+        int val= 7;
+
         if(val%3 == 0 || val%2 == 0){
             if(val == 3 || val == 2){
                 System.out.println("value is prime");
